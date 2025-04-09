@@ -9,7 +9,8 @@ The system used here is a general projectile, propagated by Euler integrator ( y
 
 Clearly have explained the code and theory in this - 'Monte Carlo_Analysistheory.pdf' file 
 
-Kindly refer to the code as a sample one for this analysis !
+The MATLAB code I have built for the analysis of projectile motion(javelin throw) is also uploaded in the repository, which can be used as a reference for your future works !
+
 The code output graphs and analysis is also clearly explained in the pdf file,
 
 Cheers !!
