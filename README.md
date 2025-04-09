@@ -9,7 +9,8 @@ The system used here is a general projectile, propagated by Euler integrator ( y
 
 Clearly have explained the code and theory in this - 'Monte Carlo_Analysistheory.pdf' file 
 
-Code is provided as well !
+Kindly refer to the code as a sample one for this analysis !
+The code output graphs and analysis is also clearly explained in the pdf file,
 
 Cheers !!
 
