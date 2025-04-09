@@ -13,6 +13,8 @@ The MATLAB code I have built for the analysis of projectile motion(javelin throw
 
 The code output graphs and analysis is also clearly explained in the pdf file,
 
+If you are here for the answer, INTIAL VELOCITY is the answer!!
+
 Cheers !!
 
 
